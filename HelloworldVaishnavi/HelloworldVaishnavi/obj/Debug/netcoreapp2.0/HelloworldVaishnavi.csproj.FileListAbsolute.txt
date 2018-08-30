@@ -1,0 +1,11 @@
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\bin\Debug\netcoreapp2.0\HelloworldVaishnavi.deps.json
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\bin\Debug\netcoreapp2.0\HelloworldVaishnavi.runtimeconfig.json
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\bin\Debug\netcoreapp2.0\HelloworldVaishnavi.runtimeconfig.dev.json
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\bin\Debug\netcoreapp2.0\HelloworldVaishnavi.dll
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\bin\Debug\netcoreapp2.0\HelloworldVaishnavi.pdb
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\obj\Debug\netcoreapp2.0\HelloworldVaishnavi.csprojResolveAssemblyReference.cache
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\obj\Debug\netcoreapp2.0\HelloworldVaishnavi.csproj.CoreCompileInputs.cache
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\obj\Debug\netcoreapp2.0\HelloworldVaishnavi.AssemblyInfoInputs.cache
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\obj\Debug\netcoreapp2.0\HelloworldVaishnavi.AssemblyInfo.cs
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\obj\Debug\netcoreapp2.0\HelloworldVaishnavi.dll
+C:\Temp\helloworld\HelloworldVaishnavi\HelloworldVaishnavi\obj\Debug\netcoreapp2.0\HelloworldVaishnavi.pdb
